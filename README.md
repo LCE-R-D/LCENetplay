@@ -1,5 +1,10 @@
-# Minecraft: Xbox One Edition Netplay
-Netplay testing, in the end you should be able to connect to any server via IP, or even host one yourself.
+# Minecraft: Legacy Console Edition Netplay
+Netplay mods for multiple editions of Minecraft: Legacy Console Edition
+
+### Branches
+| Edition                                                                 | Maintainer(s)                                       |
+|-------------------------------------------------------------------------|-----------------------------------------------------|
+| [Xbox One Edition](https://github.com/LCE-R-D/LCENetplay/tree/xbox-one) | [DexrnZacAttack](https://github.com/DexrnZacAttack) |
 
 ## Roadmap
 
