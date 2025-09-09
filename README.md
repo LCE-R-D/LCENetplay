@@ -4,7 +4,7 @@ Netplay mods for multiple editions of Minecraft: Legacy Console Edition
 ### Branches
 | Edition                                                                 | Maintainer(s)                                       |
 |-------------------------------------------------------------------------|-----------------------------------------------------|
-| [Xbox One Edition](https://github.com/LCE-R-D/LCENetplay/tree/xbox-one) | [DexrnZacAttack](https://github.com/DexrnZacAttack) |
+| [Xbox One Edition](https://github.com/LCERD/LCENetplay/tree/xbox-one) | [DexrnZacAttack](https://github.com/DexrnZacAttack) |
 
 ## Roadmap
 
